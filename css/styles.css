@@ -1,0 +1,34 @@
+@font-face {
+    font-family: MyriadProRegular;
+    src: url('../webfonts/MYRIADPRO-REGULAR.woff');
+}
+@font-face {
+    font-family: segoewplight;
+    src: url('../webfonts/segoe-wp-light.ttf');
+}
+body{
+    font-family: segoewplight;
+    font-size: 1rem;
+    color: #909090;
+}
+.carousel-caption{
+    bottom: 20%;
+    left: 50%;
+    right: 0%;
+    text-align: left;
+}
+.carousel-caption h2{
+    font-size: 2.62rem;
+}
+.carousel-caption p {
+    font-size: 1.62rem;
+}
+.carousel-caption a {
+    background: #5094f2;
+    color: #fff;
+    font-size: 1.39rem;
+}
+.my-6{
+    margin-top: 62.5px;
+    margin-bottom: 62.5px;
+}
